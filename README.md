@@ -1,7 +1,7 @@
 # student-client — JavaFX-фронтенд для fun-student
 
 Десктопный клиент для REST API `fun-student` (Spring Boot, JWT).
-Работает с сервером по HTTP, бэкенд не изменён.
+Работает с сервером по HTTP.
 
 ## Требования
 
